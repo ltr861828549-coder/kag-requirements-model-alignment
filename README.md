@@ -1,0 +1,2 @@
+# -Requirements-Change-Driven-Requirements-Model-Alignment-System-Based-on-KAG-Framework
+By combining the semantic understanding capabilities of large language models with the structured reasoning advantages of knowledge graphs, we can accurately analyze the impact of changes in natural language requirements on the original SysML multi-view requirement model and automatically generate specific model modification plans.
